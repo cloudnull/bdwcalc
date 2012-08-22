@@ -1,6 +1,7 @@
 #!/bin/bash
 # - title        : Calculator for Bandwidth
 # - description  : This script will assist in calculating the Max Possible Bandwidth in a month
+# - License      : GPLv3
 # - author       : Kevin Carter
 # - date         : 2011-12-23
 # - version      : 3.0    
