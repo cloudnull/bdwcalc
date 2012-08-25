@@ -33,5 +33,6 @@ You can also specify the network interface and hours active from the command lin
 
     ./bdhcalc.sh 10 24
 
+--------
 
 Drop me a line if you have questions.
